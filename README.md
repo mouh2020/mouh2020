@@ -4,7 +4,7 @@ Hi 👋 My name is Mohammed BADI
 Web and mobile application developer
 ------------------------------------
 
-👋 Hello! I'm a dedicated developer with a background in programming, safety, and security. 📚 Started learning Python basics in middle school. 🔒 Explored industrial safety and security. 🔥 Developed a fire detection and classification software using trained models in university. 💻 Currently studying Web and Mobile App Development at a technical institute, aiming to graduate in April 2026, Insha Allah. I’m passionate about building technology that solves real-world problems and am excited to keep learning and growing!
+👋 Hello! I'm a dedicated developer with a background in programming, safety, and security. 📚 Started learning Python basics in middle school. 🔒 Explored industrial safety and security. 🔥 Developed a fire detection and classification software using trained models in university. 💻 Currently studying Web and Mobile App Development at a technical institute, aiming to graduate in April 2026, 🤲 Insha Allah.
 
 * 🌍  I'm based in Batna, Algeria
 * 🖥️  See my portfolio at [Badi Dev Blogger](http://badi-dev.tech)
